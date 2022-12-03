@@ -12,7 +12,7 @@
   
 ## Introduction
 
-Currently both of my personal projects are a work in progress and thus, as the projects develop the README.md of this repository will be expanded upon.
+Currently both of my personal projects are a work in progress and so, as the projects develop the README.md of this repository will be expanded upon.
 
 ## Worlds 2022 LoL Project
 
