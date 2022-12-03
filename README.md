@@ -18,5 +18,10 @@ Currently both of my personal projects are a work in progress and thus, as the p
 
 The esports scene has grown rapidly over the recent years with some games being more popular than others. League of Legends (LoL) is a multiplayer online battle arena (MOBA) game where 2 teams of 5 players select a character (referred to as champions in-game) to play as and work together to destroy a struture within the opposing teams base called the Nexus. The LoL esports scene is one of the largest, being in the top 5 biggest and most popular esports scenes. It's largest tournament is the World Championship where teams from all regions compete to win, the World Championship typically takes place in October each year. Being a fan of the game and it's esports scene I wanted to determine what where the deciding factors in the recent World Championship that took place this year and recently concluded as of writing, this World Championship took place from 29/09/2022 to 5/11/2022.
 
+Currently the data has been collected using web scraping techniques with Selenium and the web scraped data has been cleaned using a Python script. Two datasets have been created, one dataset contains the average stats of each player and the other contains the stats scraped from the endgame leaderboard of all 80 matches that took place in the tournament.
+
 ## Star Wars The Clone Wars Project
 
+Star Wars The Clone Wars is an animated series that takes place in the Star Wars universe and tells the events that occured between Episode II and Episode III. Being a huge fan of the Star Wars franchise, I wanted to build an episode synopsis generator to see if through machine learning, episode synopsis could be generated and if it could would they be coherent and make sense. Because of my knowledge of the Star Wars universe and it's lore, I can determine if these generated episode synopsis would make sense.
+
+Currently the data has been collected by building a Scrapy spider to scrape the episode titles and synopsis, a Python script was written to clean the data.
