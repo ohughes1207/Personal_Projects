@@ -1,0 +1,33 @@
+Game Number,Match Length (minutes),Side,Team,Top,Top Champion,Jungle,Jungle Champion,Mid,Mid Champion,Bottom,Bottom Champion,Support,Support Champion,Total Team Kills,Total Team Gold (k),Towers,Inhibitors,Barons,Dragons,Heralds,Victory
+52,29.32,Blue,JD Gaming,369,Gragas,Kanavi,Graves,Yagao,Taliyah,Hope,Aphelios,Missing,Lulu,13,56.3,10,2,1,1,2,1
+52,29.32,Red,Rogue,Odoamne,Renekton,Malrang,Vi,Larssen,Azir,Comp,Lucian,Trymbi,Nami,6,46.9,3,0,0,3,0,0
+53,29.65,Blue,Rogue,Odoamne,Maokai,Malrang,Lee Sin,Larssen,Azir,Comp,Lucian,Trymbi,Nami,6,48,2,0,0,2,0,0
+53,29.65,Red,JD Gaming,369,Gwen,Kanavi,Viego,Yagao,Sylas,Hope,Aphelios,Missing,Lulu,10,58.9,9,1,2,2,2,1
+54,33.1,Blue,Rogue,Odoamne,Maokai,Malrang,Lee Sin,Larssen,LeBlanc,Comp,Kalista,Trymbi,Soraka,10,52.3,1,0,0,3,0,0
+54,33.1,Red,JD Gaming,369,Ornn,Kanavi,Viego,Yagao,Sylas,Hope,Lucian,Missing,Nami,14,58.6,7,1,0,2,2,1
+55,38.15,Blue,T1,Zeus,Camille,Oner,Graves,Faker,Viktor,Gumayusi,Ashe,Keria,Heimerdinger,15,76.1,11,3,1,3,2,1
+55,38.15,Red,RNG,Breathe,Renekton,Wei,Viego,Xiaohu,Akali,GALA,Aphelios,Ming,Nautilus,10,63.6,1,0,0,2,0,0
+56,42.0,Blue,RNG,Breathe,Fiora,Wei,Sejuani,Xiaohu,Sylas,GALA,Kai'Sa,Ming,Nautilus,14,76.1,7,2,0,4,2,0
+56,42.0,Red,T1,Zeus,Jayce,Oner,Viego,Faker,Akali,Gumayusi,Xayah,Keria,Renata Glasc,13,79.6,7,1,2,2,0,1
+57,26.55,Blue,RNG,Breathe,Aatrox,Wei,Vi,Xiaohu,Sylas,GALA,Aphelios,Ming,Soraka,10,42.7,1,0,0,1,0,0
+57,26.55,Red,T1,Zeus,Yone,Oner,Sejuani,Faker,Akali,Gumayusi,Varus,Keria,Tahm Kench,27,55.6,9,1,1,2,2,1
+58,25.88,Blue,Gen.G,Doran,Renekton,Peanut,Maokai,Chovy,Ryze,Ruler,Miss Fortune,Lehends,Yuumi,17,51.3,7,1,1,1,0,1
+58,25.88,Red,DWG KIA,Nuguri,Gragas,Canyon,Kayn,ShowMaker,Lissandra,deokdam,Lucian,Kellin,Nami,7,42.8,2,0,0,2,2,0
+59,42.35,Blue,DWG KIA,Nuguri,Gragas,Canyon,Wukong,ShowMaker,Azir,deokdam,Lucian,Kellin,Nami,11,67.9,5,1,0,2,2,0
+59,42.35,Red,Gen.G,Doran,Camille,Peanut,Sejuani,Chovy,Yone,Ruler,Miss Fortune,Lehends,Yuumi,17,75.7,10,1,1,4,0,1
+60,26.13,Blue,DWG KIA,Nuguri,Sejuani,Canyon,Viego,ShowMaker,Swain,deokdam,Aphelios,Kellin,Lulu,15,50.2,7,1,1,4,2,1
+60,26.13,Red,Gen.G,Doran,Maokai,Peanut,Poppy,Chovy,Azir,Ruler,Lucian,Lehends,Nami,2,39.7,1,0,0,0,0,0
+61,24.5,Blue,Gen.G,Doran,Gnar,Peanut,Sejuani,Chovy,Azir,Ruler,Jinx,Lehends,Lulu,2,37.1,0,0,0,1,0,0
+61,24.5,Red,DWG KIA,Nuguri,Renekton,Canyon,Viego,ShowMaker,LeBlanc,deokdam,Aphelios,Kellin,Renata Glasc,13,49.8,8,1,1,3,2,1
+62,44.85,Blue,Gen.G,Doran,Gnar,Peanut,Sejuani,Chovy,Viktor,Ruler,Lucian,Lehends,Nami,18,81.6,10,2,1,3,2,1
+62,44.85,Red,DWG KIA,Nuguri,Renekton,Canyon,Kayn,ShowMaker,Syndra,deokdam,Aphelios,Kellin,Lulu,11,72.7,3,0,1,3,0,0
+63,35.02,Blue,DRX,Kingen,Fiora,Pyosik,Graves,Zeka,Orianna,Deft,Ashe,BeryL,Heimerdinger,9,60.3,6,1,0,3,0,0
+63,35.02,Red,EDward Gaming,Flandre,Kennen,JieJie,Lee Sin,Scout,Azir,Viper,Sivir,Meiko,Soraka,15,62.4,9,2,1,2,2,1
+64,42.45,Blue,DRX,Kingen,Aatrox,Pyosik,Poppy,Zeka,Akali,Deft,Ezreal,BeryL,Heimerdinger,11,77.4,10,2,2,1,2,0
+64,42.45,Red,EDward Gaming,Flandre,Jax,JieJie,Sejuani,Scout,Azir,Viper,Aphelios,Meiko,Lulu,18,78.3,7,1,1,5,0,1
+65,42.03,Blue,DRX,Kingen,Aatrox,Pyosik,Kindred,Zeka,Sylas,Deft,Draven,BeryL,Soraka,9,76.4,9,2,1,4,2,1
+65,42.03,Red,EDward Gaming,Flandre,Fiora,JieJie,Graves,Scout,Viktor,Viper,Kalista,Meiko,Renata Glasc,8,71.1,5,0,0,3,0,0
+66,38.7,Blue,EDward Gaming,Flandre,Aatrox,JieJie,Lee Sin,Scout,LeBlanc,Viper,Varus,Meiko,Renata Glasc,11,60.8,2,0,0,2,1,0
+66,38.7,Red,DRX,Kingen,Camille,Pyosik,Sejuani,Zeka,Azir,Deft,Kalista,BeryL,Ashe,18,72.1,10,2,2,4,1,1
+67,37.88,Blue,EDward Gaming,Flandre,Jax,JieJie,Sejuani,Scout,Akali,Viper,Aphelios,Meiko,Lulu,7,62.8,3,0,0,2,2,0
+67,37.88,Red,DRX,Kingen,Fiora,Pyosik,Viego,Zeka,Sylas,Deft,Ezreal,BeryL,Karma,18,73.4,9,1,1,4,0,1
