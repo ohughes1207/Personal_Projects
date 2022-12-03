@@ -22,11 +22,11 @@ Currently the data has been collected using web scraping techniques with Seleniu
 
 <h4 align=center> Match stats dataset </h4>
 
-![](https://raw.githubusercontent.com/ohughes1207/Academic_Projects/main/2022_sMILES_Masters_Project/figs/aFep00_best_fit.png)
+![](https://raw.githubusercontent.com/ohughes1207/Personal_Projects/main/Worlds%202022%20LoL%20Project/Match%20Stats/figs/dataset.PNG)
 
 <h4 align=center> Average player stats dataset </h4>
 
-![](https://raw.githubusercontent.com/ohughes1207/Academic_Projects/main/2022_sMILES_Masters_Project/figs/aFep00_best_fit.png)
+![](https://raw.githubusercontent.com/ohughes1207/Personal_Projects/main/Worlds%202022%20LoL%20Project/Average%20Player%20Stats%20EDA/figs/dataset.PNG)
 
 ## Star Wars The Clone Wars Project
 
@@ -36,4 +36,4 @@ Currently the data has been collected by building a Scrapy spider to scrape the 
 
 <h4 align=center> Star Wars The Clone Wars dataset </h4>
 
-![](https://raw.githubusercontent.com/ohughes1207/Academic_Projects/main/2022_sMILES_Masters_Project/figs/aFep00_best_fit.png)
+![](https://raw.githubusercontent.com/ohughes1207/Personal_Projects/main/Star%20Wars%20The%20Clone%20Wars%20Project/figs/dataset.PNG)
