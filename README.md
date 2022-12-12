@@ -34,7 +34,7 @@ Star Wars The Clone Wars is an animated series that takes place in the Star Wars
 
 Currently the data has been collected by building a Scrapy spider to scrape the episode titles and synopsis, a Python script was written to clean the data. Challenges were faced when some of the episode synopsis contains text with hyperlinks, the Scrapy spider scrapes the hyperlink text seperately when it meets them and adds them to a list and the data cleaning script removes unwanted characters and builds the episode synopsis through string manipulation. This data was scraped from [here](https://en.wikipedia.org/wiki/List_of_Star_Wars:_The_Clone_Wars_episodes).
 
-Going forward with this project I will either build an LSTM model or use a pre-trained autoregressive model such as GPT-2. Fine tuning a pre-trained autoregressive model will allow the model to have a greater vocabulary whereas the LSTM model will be confined to the words the model had seen from the given data.
+Going forward with this project I will either build an LSTM model or use a pre-trained autoregressive model such as GPT-2. Fine tuning a pre-trained autoregressive model will allow the model to have a greater vocabulary whereas the LSTM model will be confined to the words the model had been given from the data.
 
 <h4 align=center> Star Wars The Clone Wars dataset </h4>
 
